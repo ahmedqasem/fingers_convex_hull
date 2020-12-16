@@ -1,2 +1,4 @@
-# fingers_convex_hull
-counting fingers using webcam
+# Fingers counting using convex hull
+a tool for counting how many fingers are present through the webcan using OpenCV
+
+#### 
